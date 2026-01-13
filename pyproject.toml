@@ -1,0 +1,9 @@
+[project]
+name = "terraformbuddy"
+version = "0.1.0"
+description = "Visualize Terraform plan JSON output as interactive HTML"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jinja2>=3.1.0",
+]
