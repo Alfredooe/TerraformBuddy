@@ -1,6 +1,6 @@
-# TerraformBuddy
+# THIS IS VIBECODED SLOP, USE AT YOUR OWN RISK.
 
-A Docker-based tool that converts Terraform plan JSON output into beautiful, interactive HTML visualizations with Bootstrap 5.
+A Docker-based tool that converts Terraform plan show JSON output into beautiful, interactive HTML visualizations with Bootstrap 5.
 
 ## Features
 
